@@ -6,4 +6,4 @@ My name is Eddy and I currently live in Palo Alto with my wife [Sophie](https://
 
 You can contact me at `(@ "hey" (. "eddy" "ninja"))`.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mithaecus&hide=css,javascript,html&exclude_repo=mangata-e2e)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mithaecus&hide=css,javascript,html&exclude_repo=mangata-e2e)
