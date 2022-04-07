@@ -14,5 +14,5 @@ n.b. Mithaecus is the first known cook to author a cookbook, of which one recipe
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mithaecus&show_icons=true&theme=calm" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mithaecus&hide=css,javascript,html&exclude_repo=mangata-e2e" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mithaecus&theme=calm&hide=css,javascript,html&exclude_repo=mangata-e2e" />
 </p>
