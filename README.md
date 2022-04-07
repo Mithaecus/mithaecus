@@ -6,7 +6,7 @@ My name is Eddy and I currently live in Palo Alto with my wife [Sophie](https://
 
 :books: I'm currently working through [SICP](https://mithaecus.github.io/book-sicp) and [AIMA](https://mithaecus.github.io/book-aima)
 
-💻 My current project is [RecipeZ](https://github.com/mithaecus/RecipeZ), applying logic programming to ingrediants flavor compounds in order to find fun food pairings, written in Racket (and Racklog, an embedded Prolog-like implementation in Racket). 
+💻 My current project is [RecipeZ](https://github.com/mithaecus/RecipeZ), applying logic programming to ingrediants flavor compounds in order to find fun food pairings, written in Racket (and Racklog, an embedded Prolog-like implementation in Racket)
 
 You can contact me at `(@ "hey" (. "eddy" "ninja"))`
 
