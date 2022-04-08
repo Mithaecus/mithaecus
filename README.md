@@ -14,7 +14,7 @@ n.b. Mithaecus is the first known cook to author a cookbook, of which one recipe
 
 > Tainia: gut, discard the head, rinse, slice; add cheese and olive oil
 
-<3 https://www.dreamsongs.com/ArtOfLisp.html
+💝 https://www.dreamsongs.com/ArtOfLisp.html
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mithaecus&show_icons=true&theme=calm" />
