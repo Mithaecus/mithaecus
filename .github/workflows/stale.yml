@@ -1,0 +1,26 @@
+name: Always green!
+
+on:
+  schedule:
+  - cron: '* 12 * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+      run: |
+        printf ' ' >> README.md
+
+    - name: Commit files 
+      run: |
+        git config --local user.name "Mithaecus"
+        git add .
+        git commit -m "Update Readme"
+
+    - name: Push changes # push the output folder to your repo
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        force: true
