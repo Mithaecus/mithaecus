@@ -11,11 +11,12 @@ jobs:
 
     steps:
     - uses: actions/checkout@v2
-    - uses: fregante/setup-git-user@v1
     
     - name: Commit files 
       run: |
         printf ' ' >> README.md
+        git config --global user.email "hey@eddy.ninja"
+        git config --global user.name "Mithaecus"
         git add .
         git commit -m "Update Readme"
 
