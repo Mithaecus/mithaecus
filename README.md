@@ -7,7 +7,7 @@
 </p>
  
 <p align="center">
-  <img align="center" src="https://github.com/Mithaecus/mithaecus/actions/workflows/stale.yml/badge.svg" />
+  <img align="center" src="https://github.com/Mithaecus/mithaecus/actions/workflows/always-green.yml/badge.svg" />
 </p> 
   
 My name is Eddy and I currently live in Palo Alto with my wife [Sophie](https://github.com/sophieschau) and dog [Sudo](https://instagram.com/adognamedsudo). I currently spend my time hacking [Lisp](http://www.paulgraham.com/avg.html), volunteering at the [Cantor Arts Center](https://en.wikipedia.org/wiki/Cantor_Arts_Center), analysing data for [Giving What We Can](https://givingwhatwecan.org), and training for a [Triathlon](https://www.svtriclub.org).
