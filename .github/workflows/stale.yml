@@ -16,6 +16,7 @@ jobs:
       run: |
         printf ' ' >> README.md
         git config --local user.name "Mithaecus"
+        git config --local user.email "hey@eddy.ninja"
         git add .
         git commit -m "Update Readme"
 
