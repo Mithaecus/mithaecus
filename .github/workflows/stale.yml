@@ -10,11 +10,10 @@ jobs:
 
     steps:
     - uses: actions/checkout@v2
-      run: |
-        printf ' ' >> README.md
-
+    
     - name: Commit files 
       run: |
+        printf ' ' >> README.md
         git config --local user.name "Mithaecus"
         git add .
         git commit -m "Update Readme"
