@@ -8,10 +8,6 @@
   
 My name is Eddy and I currently live in Palo Alto with my wife [Sophie](https://github.com/sophieschau) and dog [Sudo](https://instagram.com/adognamedsudo). I currently spend my time hacking [Lisp](http://www.paulgraham.com/avg.html), volunteering at the [Cantor Arts Center](https://en.wikipedia.org/wiki/Cantor_Arts_Center), analysing data for [Giving What We Can](https://givingwhatwecan.org), and training for a [Triathlon](https://www.svtriclub.org).
 
-:books: I'm currently working through [SICP](https://mithaecus.github.io/book-sicp) and [AIMA](https://mithaecus.github.io/book-aima)
-
-💻 My current project is [RecipeZ](https://github.com/mithaecus/RecipeZ), applying logic programming to ingrediants flavor compounds in order to find fun food pairings, written in Racket (and Racklog, an embedded Prolog-like implementation in Racket)
-
 You can contact me at `(@ "hey" (. "eddy" "ninja"))`
 
 n.b. Mithaecus is the first known cook to author a cookbook, of which one recipe survives in *Deipnosophistae*
